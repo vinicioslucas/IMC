@@ -4,7 +4,7 @@
     --primary-color-darker:#3e034d9a;
 }
 * {
-    box-sizing: border-box; /*O box-sizing: border-box é frequentemente usado para facilitar o layout e a responsividade, já que permite definir as dimensões totais dos elementos de maneira mais intuitiva, sem se preocupar com cálculos complexos de larguras e alturas quando se adiciona padding ou bordas.*/
+    box-sizing: border-box; /*O box-sizing: border-box é frequentemente usado para facilitar o layout e a responsividade, já que permite definir as dimensões totais dos elementos de maneira mais intuitiva, sem se preocupar com cálculos complexos de larguras e alturas quando se adiciona padding ou bordas!.*/
     outline: 0;
 }
 h1{

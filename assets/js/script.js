@@ -1,4 +1,4 @@
-// Fazer a captura do evento de SUBMIT DO FORMULARIO
+// Fazer a captura do evento de SUBMIT DO FORMULARIO!
 
 const form = document.querySelector('#form'); // Selecionando o formulario por ID
 
